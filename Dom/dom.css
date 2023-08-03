@@ -18,3 +18,19 @@ span{
   font-size: 1.9rem;
   text-align: left;
 }
+.btn
+{
+  margin: 0px 11%;
+  padding: 12px 10px 12px;
+ 
+  text-align: center;
+}
+
+.bulb{
+  height: 300px;
+  width: 300px;
+  border: 2px solid black;
+  background-color: yellow;
+  border-radius: 50%;
+  margin: 120px 10%;
+}
