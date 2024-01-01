@@ -39,7 +39,7 @@ const Questions = [ // create a question and answer as array..
   
 ];
 
-const questionElement = document.getElementById("Questions");
+const questionElement = document.getElementById("Questions"); // callling element by id
 const answerButtons = document.getElementById("answer-buttons");
 const nextButton = document.getElementById("next-btn");
 
